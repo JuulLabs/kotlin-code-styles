@@ -9,6 +9,10 @@ Clone this repository:
 ```bash
 git clone git@github.com:JuulLabs-OSS/kotlin-code-styles.git
 ```
+or
+```bash
+git clone https://github.com/JuulLabs-OSS/kotlin-code-styles.git
+```
 
  Run the install script:
 
