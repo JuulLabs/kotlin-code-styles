@@ -7,7 +7,7 @@ IntelliJ IDEA code style settings for JUUL Labs' Kotlin and Android projects.
 Clone this repository:
 
 ```bash
-git clone https://github.com/JuulLabs-OSS/kotlin-code-styles.git
+git clone https://github.com/JuulLabs/kotlin-code-styles.git
 ```
 
 _See [Which remote URL should I use?] for alternate ways of cloning repository._
@@ -51,5 +51,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 [Kotlin style guide]: https://developer.android.com/kotlin/style-guide
-[#1]: https://github.com/JuulLabs-OSS/kotlin-code-styles/issues/1
+[#1]: https://github.com/JuulLabs/kotlin-code-styles/issues/1
 [Which remote URL should I use?]: https://help.github.com/en/github/using-git/which-remote-url-should-i-use
