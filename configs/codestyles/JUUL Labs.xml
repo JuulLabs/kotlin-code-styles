@@ -1,6 +1,5 @@
 <code_scheme name="JUUL Labs" version="173">
-  <option name="SOFT_MARGINS" value="100" />
-  <option name="RIGHT_MARGIN" value="120" />
+  <option name="RIGHT_MARGIN" value="100" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
